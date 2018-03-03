@@ -32,6 +32,7 @@ gem 'devise'
 gem 'bootstrap'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
